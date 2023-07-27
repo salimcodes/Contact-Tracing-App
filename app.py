@@ -29,6 +29,9 @@ def Predict(inputName):
 app = gr.Interface(fn=Predict, 
                    inputs="text", 
                    outputs="text",
+                   description = "This app helps you to find out if you have been in contact with someone who has tested positive for COVID-19. As a prototype, it was trained on a dataset of 10 people and their locations. The app takes in their names and outputs the names of people they have been in contact with. The names in this demo are as follows: Adeola, Amaka, Ayoola, Bimpe, Dolapo, Femi, Mayokun, Segun, Seyi, Tolu",
                    theme="grass",
                    title="Contact Tracing Web App") 
 app.launch()
+
+
