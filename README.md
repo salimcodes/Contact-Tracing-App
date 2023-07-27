@@ -1,5 +1,7 @@
 # Contact Tracing Web App
 
+![image](https://github.com/salimcodes/Contact-Tracing-App/assets/64667212/e7ffc20f-cda2-4a8d-b8b7-bddd8884c5cd)
+
 This is a simple Contact Tracing Web App that helps you find out if you have been in contact with someone who has tested positive for COVID-19. Please note that this app is a prototype and is currently trained on dummy data of 10 people and their locations. 
 
 ## How it Works
